@@ -1,15 +1,5 @@
 # LED-Filament 38mm 10mA Series Data Sheet.
 
-Filament 38mm 10mA  
-
-|  |  |  |  |
-| ------------- | ------------------------------------ | ------------------ | ---------------- |
-| 1-Type      | 5-The number of chips in series     | 9--Luminous        | 13-Technology |
-| 2-Brand name| 6-The number of chips in parallel   | 10-Ra             | 14-Serial number |
-| 3-Material  | 7-Color                             | 11-Voltage | |
-| 4-Hyphen    | 8-CCT                               | 12-Hyphen | |
-
-
 Super high efficiency.  
 High reliability performance.  
 360° Viewing angle 360°.  
@@ -45,6 +35,6 @@ ESD : 2000v
 
 When driving these filaments suggest using the RECOM DC-DC booster convertor.  
 R05-100B or the R12-100B
-
+Available from RS Components(UK)
 
 
