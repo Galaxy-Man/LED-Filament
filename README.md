@@ -17,10 +17,10 @@ High reliability performance.
 360° Viewing angle 360°.
 High drive voltage.
 
-1.All dimension is shown by millimeter.
+1.All dimension shown by millimeter.
 2.Tolerance is ±0.1mm unless otherwise noted.
 3.Cathode is marked as "○" in PIN feet.
-4.PIN feet is made by metal, please evaluate the weldability in prior.
+4.PIN feet made with metal, please evaluate the weldability in prior testing.
 5.Circuit design cannot exceed 4 parallel connections.
 
 ![alt text](https://github.com/Galaxy-Man/LED-Filament/blob/master/LEDFilamentDimensions.png "Logo Title Text 1")
@@ -35,7 +35,7 @@ High drive voltage.
 TS Hand Soldering : 350℃ 3 sec. 
 ESD : 2000v
 
-|  	specifications|  	wave length（nm）|  	Luminous flux（lm） | 	VF（V）|  	IF（mA）|  
+|  	Specifications|  	Wave Length（nm）|  	Luminous Flux（lm） | 	VF（V）|  	IF（mA）|  
 | ------------- | :-------------: |:-------------:|:-------------: |:-------------: |
 | 38mm 	Red（R）|  	615-625|  	30-50 | 	35-65|  	10 	    |     
 | Yellow（Y）|  	585-595|  	20-40 | 	35-65| 	10 	 | 
