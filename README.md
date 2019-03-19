@@ -22,12 +22,14 @@ High drive voltage
 4.PIN feet is made by metal, please evaluate the weldability in prior
 5.Circuit design cannot exceed 4 parallel connections
 
-| Symbol | Absolute Max Rating | Unti |
+| Symbol | Absolute Max Rating | Unit |
 | ------------- | ------------- |------------- |
-| | | | 
-| | | | 
-| | | | 
-| | | | 
-| | | | 
-| | | | 
+|IF | |mA | 
+|Pd | |mW | 
+|Topr | |℃ | 
+|Tstg | |℃ | 
+
+
+|TS | |Hand Soldering : 350℃ 3 sec.| 
+|ESD | | | 
 
