@@ -1,4 +1,4 @@
-# LED-Filament
+# LED-Filament 38mm 10mA Series Data Sheet.
 
 Filament 38mm 10mA
 
@@ -10,17 +10,17 @@ Filament 38mm 10mA
 | 4-Hyphen    | 8-CCT                               | 12-Hyphen | |
 
 
-Filament 38mm 10mA Series Data Sheet
-Super high efficacy
-High reliability performance
-360° Viewing angle 360°
-High drive voltage
 
-1.All dimension is shown by millimeter
-2.Tolerance is ±0.1mm unless otherwise noted
-3.Cathode is marked as "○" in PIN feet
-4.PIN feet is made by metal, please evaluate the weldability in prior
-5.Circuit design cannot exceed 4 parallel connections
+Super high efficiency.
+High reliability performance.
+360° Viewing angle 360°.
+High drive voltage.
+
+1.All dimension is shown by millimeter.
+2.Tolerance is ±0.1mm unless otherwise noted.
+3.Cathode is marked as "○" in PIN feet.
+4.PIN feet is made by metal, please evaluate the weldability in prior.
+5.Circuit design cannot exceed 4 parallel connections.
 
 | Symbol | Absolute Max Rating | Unit |
 | ------------- | ------------- |------------- |
