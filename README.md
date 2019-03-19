@@ -13,7 +13,7 @@ Filament 38mm 10mA
 Super high efficiency.
 
 High reliability performance./br
-360° Viewing angle 360°.
+360° Viewing angle 360°./n
 High drive voltage.
 
 1.All dimension is shown by millimeter.
