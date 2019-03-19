@@ -35,4 +35,10 @@ High drive voltage.
 TS Hand Soldering : 350℃ 3 sec. 
 ESD : 2000v
 
+|  	specifications|  	wave length（nm）|  	Luminous flux（lm） | 	VF（V）|  	IF（mA）|  
+| ------------- | :-------------: |:-------------:|:-------------: |:-------------: |
+| 38mm 	Red（R）|  	615-625|  	30-50 | 	35-65|  	10 	    |     
+| Yellow（Y）|  	585-595|  	20-40 | 	35-65| 	10 	 | 
+| Green（G）|  	515-525 | 	80-110|  	50-90| 	10 	 | 
+| Blue（B）|  	460-470 | 	10-30|  	50-90| 	10 	 | 
 
