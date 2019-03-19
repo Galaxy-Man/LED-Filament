@@ -1,8 +1,7 @@
 # LED-Filament 38mm 10mA Series Data Sheet.
 
-Inline-style: 
 ![alt text](https://github.com/Galaxy-Man/LED-Filament/blob/master/LEDFilament24ChipSeries.png "Logo Title Text 1")
-![alt text](https://github.com/Galaxy-Man/LED-Filament/blob/master/LEDFilamentDimensions.png "Logo Title Text 1")
+
 Filament 38mm 10mA
 
 |  |  |  |  |
@@ -23,6 +22,8 @@ High drive voltage.
 3.Cathode is marked as "○" in PIN feet.
 4.PIN feet is made by metal, please evaluate the weldability in prior.
 5.Circuit design cannot exceed 4 parallel connections.
+
+![alt text](https://github.com/Galaxy-Man/LED-Filament/blob/master/LEDFilamentDimensions.png "Logo Title Text 1")
 
 | Symbol | Absolute Max Rating | Unit |
 | ------------- | :-------------: |:-------------: |
