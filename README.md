@@ -24,12 +24,12 @@ High drive voltage
 
 | Symbol | Absolute Max Rating | Unit |
 | ------------- | ------------- |------------- |
-|IF | |mA | 
-|Pd | |mW | 
-|Topr | |℃ | 
-|Tstg | |℃ | 
+|IF |10 |mA | 
+|Pd |710 |mW | 
+|Topr |-30~55 |℃ | 
+|Tstg | -40~85|℃ | 
 
+TS Hand Soldering : 350℃ 3 sec. 
+ESD : 2000v
 
-|TS | |Hand Soldering : 350℃ 3 sec.| 
-|ESD | | | 
 
