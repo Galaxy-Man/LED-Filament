@@ -1,7 +1,5 @@
 # LED-Filament 38mm 10mA Series Data Sheet.
 
-![alt text](https://github.com/Galaxy-Man/LED-Filament/blob/master/LEDFilament24ChipSeries.png "Logo Title Text 1")
-
 Filament 38mm 10mA
 
 |  |  |  |  |
@@ -41,4 +39,7 @@ ESD : 2000v
 | Yellow（Y）|  	585-595|  	20-40 | 	35-65| 	10 	 | 
 | Green（G）|  	515-525 | 	80-110|  	50-90| 	10 	 | 
 | Blue（B）|  	460-470 | 	10-30|  	50-90| 	10 	 | 
+
+
+![alt text](https://github.com/Galaxy-Man/LED-Filament/blob/master/LEDFilament24ChipSeries.png "Logo Title Text 1")
 
