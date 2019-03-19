@@ -16,6 +16,8 @@ High reliability performance.
 High drive voltage.
 
 1.All dimension shown by millimeter.
+
+
 2.Tolerance is ±0.1mm unless otherwise noted.
 3.Cathode is marked as "○" in PIN feet.
 4.PIN feet made with metal, please evaluate the weldability in prior testing.
