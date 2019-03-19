@@ -21,7 +21,7 @@ High drive voltage.
 4.PIN feet made with metal, please evaluate the weldability in prior testing.  
 5.Circuit design cannot exceed 4 parallel connections.
 
-![alt text](https://github.com/Galaxy-Man/LED-Filament/blob/master/LEDFilamentDimensions.png "Logo Title Text 1")
+![alt text](https://github.com/Galaxy-Man/LED-Filament/blob/master/LEDFilamentDimensions.png "Dimensions")
 
 | Symbol | Absolute Max Rating | Unit |
 | ------------- | :-------------: |:-------------: |
@@ -41,5 +41,10 @@ ESD : 2000v
 | Blue（B）|  	460-470 | 	10-30|  	50-90| 	10 	 | 
 
 
-![alt text](https://github.com/Galaxy-Man/LED-Filament/blob/master/LEDFilament24ChipSeries.png "Logo Title Text 1")
+![alt text](https://github.com/Galaxy-Man/LED-Filament/blob/master/LEDFilament24ChipSeries.png "LED Filament 24Chip Series")
+
+When driving these filaments suggest using the RECOM DC-DC booster convertor.  
+R05-100B or the R12-100B
+
+
 
