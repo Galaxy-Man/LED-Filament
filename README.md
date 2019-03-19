@@ -1,6 +1,7 @@
 # LED-Filament
 
 Filament 38mm 10mA
+
 | ------------- | ------------- | ------------- | ------------- |
 |1--Type      | 5--The number of chips in series     | 9--Luminous        | 13--Technology
 |2--Brand name| 6--The number of chips in parallel   | 10--Ra             | 14--Serial number
