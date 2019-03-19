@@ -10,9 +10,9 @@ Filament 38mm 10mA
 | 4-Hyphen    | 8-CCT                               | 12-Hyphen | |
 
 
-
 Super high efficiency.
-High reliability performance.
+
+High reliability performance./br
 360° Viewing angle 360°.
 High drive voltage.
 
