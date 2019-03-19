@@ -25,7 +25,7 @@ High drive voltage.
 5.Circuit design cannot exceed 4 parallel connections.
 
 | Symbol | Absolute Max Rating | Unit |
-| ------------- | ------------- |------------- |
+| ------------- | :-------------: |:-------------: |
 |IF |10 |mA | 
 |Pd |710 |mW | 
 |Topr |-30~55 |℃ | 
