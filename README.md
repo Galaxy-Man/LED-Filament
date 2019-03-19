@@ -8,8 +8,10 @@ High drive voltage.
 1.All dimension shown by millimeter.  
 2.Tolerance is ±0.1mm unless otherwise noted.  
 3.Cathode (- Negative) is marked as "○" in PIN feet.  
-4.PIN feet made with metal, please evaluate the weldability in prior testing.  
-5.Circuit design cannot exceed 4 parallel connections.
+4.Opposite end there is a number 24 stamped on the metal tag, thsi indicates the number of LEDs in the filament.
+5.PIN feet made with metal, please evaluate the weldability in prior testing.  
+6.Circuit design cannot exceed 4 parallel connections.
+
 
 ![alt text](https://github.com/Galaxy-Man/LED-Filament/blob/master/LEDFilamentDimensions.png "Dimensions")
 
