@@ -1,6 +1,6 @@
 # LED-Filament 38mm 10mA Series Data Sheet.
 
-Filament 38mm 10mA
+Filament 38mm 10mA  
 
 |  |  |  |  |
 | ------------- | ------------------------------------ | ------------------ | ---------------- |
@@ -10,15 +10,15 @@ Filament 38mm 10mA
 | 4-Hyphen    | 8-CCT                               | 12-Hyphen | |
 
 
-Super high efficiency.
-High reliability performance.
-360° Viewing angle 360°.
-High drive voltage.
+Super high efficiency.  
+High reliability performance.  
+360° Viewing angle 360°.  
+High drive voltage.  
 
-1.All dimension shown by millimeter  
-2.Tolerance is ±0.1mm unless otherwise noted  
-3.Cathode is marked as "○" in PIN feet  
-4.PIN feet made with metal, please evaluate the weldability in prior testing  
+1.All dimension shown by millimeter.  
+2.Tolerance is ±0.1mm unless otherwise noted.  
+3.Cathode is marked as "○" in PIN feet.  
+4.PIN feet made with metal, please evaluate the weldability in prior testing.  
 5.Circuit design cannot exceed 4 parallel connections.
 
 ![alt text](https://github.com/Galaxy-Man/LED-Filament/blob/master/LEDFilamentDimensions.png "Logo Title Text 1")
@@ -30,7 +30,7 @@ High drive voltage.
 |Topr |-30~55 |℃ | 
 |Tstg | -40~85|℃ | 
 
-TS Hand Soldering : 350℃ 3 sec. 
+TS Hand Soldering : 350℃ 3 sec.   
 ESD : 2000v
 
 |  	Specifications|  	Wave Length（nm）|  	Luminous Flux（lm） | 	VF（V）|  	IF（mA）|  
