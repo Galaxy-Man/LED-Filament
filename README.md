@@ -5,6 +5,17 @@ High reliability performance.
 360° Viewing angle 360°.  
 High drive voltage.  
 
+Color: Orange  
+Material: Metal+plastic  
+Single size: Length: 2.5CM, diameter: 0.2CM  
+LED type: COB  
+LED quantity: 3  
+Voltage: DC 12V  
+Power: 1W  
+Light color: Warm white(4200K), white(6500K)  
+Luminous flux: 130LM  
+Beam angle: 360 Degrees  
+
 1.All dimension shown by millimeter.  
 2.Tolerance is ±0.1mm unless otherwise noted.  
 3.Cathode (- Negative) is marked as "○" in PIN feet.  
