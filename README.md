@@ -18,7 +18,7 @@ Beam angle: 360 Degrees
 
 1.All dimension shown by millimeter.  
 2.Tolerance is ±0.1mm unless otherwise noted.  
-3.Anode (- Positive) is marked as "○" in PIN feet.  
+3.Anode (+ Positive) is marked as "○" on PIN feet.  
 4.Opposite end there is a number 24 stamped on the metal tag,  
   this indicates the number of LEDs in the filament.  
 5.PIN feet made with metal, please evaluate the weldability in prior testing.  
